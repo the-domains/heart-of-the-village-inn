@@ -1,0 +1,28 @@
+name: Heart of the Village Inn
+favicon: null
+layout_spectrum: 0.002719154814258218
+typography_spectrum: 0.6527943008113652
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.363995254971087
+  lightness: 0.24619774729944766
+  saturation: 0.6455252743326128
+  rhythmicContrast: 0.7117308781016618
+purpose: []
