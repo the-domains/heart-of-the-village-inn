@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Heart of the Village Inn]]></title>
+        <description><![CDATA[Heart of the Village Inn]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 24 Feb 2016 19:50:31 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Modern Victorian B&B Full Of Casual Elegance And Memorable Experiences!]]></title>
+            <description><![CDATA[<article><h1>A Modern Victorian B&B Full Of Casual Elegance And Memorable Experiences!</h1><p>Located in the bustling center of a historic village of Shelburne, the HEART is a perfect place to stay in the ENTIRE Burlington, VT area! We are two fun, happy, and vibrant innkeepers who truly care about our guests. Our B&B is cheerful and memorable, its historic charm is tastefully enriched with modern conveniences. Our individually crafted hearty breakfasts are delightful, and you owe yourself a favor to experience the #1 B&B in Shelburne as rated by TripAdvisor! Be sure to read our glowing reviews online and "Like" our Facebook page! We are conveniently located across the street from the Shelburne Museum, and are surrounded by a number of eclectic restaurants, including a very majestic Inn at Shelburne Farms, antique shops and art galleries, along with a quintessential Vermont country store, a local wine & coffee spot, hiking trails, and everything Vermont has to offer within a day trip distance! #BeHere</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5793206bad55887057cd324154e5122ac92e19c6.jpg"></article>]]></description>
+            <link>undefinedfa0db469-634e-48fa-859a-94caeaca4b20/index.html</link>
+            <guid isPermaLink="false">fa0db469-634e-48fa-859a-94caeaca4b20</guid>
+            <pubDate>Wed, 24 Feb 2016 19:50:30 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
